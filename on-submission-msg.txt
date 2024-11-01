@@ -1,0 +1,8 @@
+Thank you for uploading Woo Product Coming Soon to the WordPress Plugin Directory. It has been given the initial plugin 
+slug of woo-product-coming-soon, however that is subject to change based on the results of your code review.
+
+We’ve sent you an email verifying this submission. Please make sure to whitelist our 
+email address - plugins@wordpress.org - to ensure you receive all our communications.
+
+If there is an error in your submission, such as you require a specific plugin slug or need a different user account 
+to own the plugin, please email us as we can correct many issues before approval.
